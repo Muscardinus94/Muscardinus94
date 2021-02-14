@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muscardinus94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">Techs And Team Collaboration</h3>
+<h2 align="center">Techs Interested In And Team Collaboration</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
