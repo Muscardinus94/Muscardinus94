@@ -1,48 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=for(EveryOne)%20&fontSize=80)
+<h2>Blog and Resume</h3>
+
+<h4>Resume</h4>
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1nzQdXQD-8mrozM_5PjvYwDcsTLMi4nAM/view?usp=sharing)
+
+<h4>공부한 내용 정리</h4>
+
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>](https://complex-grape-7d5.notion.site/a0c42add288e496592af5da26af888b0?v=581b0e623cca459ca51bbff86dc495d3)
+
+<h4>Blog(Tistory)</h4>
+
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://muscardinus.tistory.com/)
+
+<h2>Skills Interested In</h4>
+<h3>FrontEnd</h3>
+
+```
+Typescript, React, React Native, Vue, Next.js
+Redux, Jotai, React Query, SWR
+SocketIO, D3.js, Chart.js
+React Testing Library, Jest
+Webpack Module Federation, Nx, Yarn workspace
+Yarn Berry
+Emotion, Styled Components, SASS, TailwindCSS, Bootstrap, Storybook
+```
+
+<h3>BackEnd</h3>
+
+```
+NodeJS, ExpressJS, NestJS
+Firebase
+```
+
+<h3>CI/CD</h3>
+
+```
+AWS(EC2, S3, Amplify, CloudFront)
+Jenkins
+```
+
+<h3>Collaboration</h3>
+
+```
+Jira & Wiki Confluence, Notion
+BitBucket, Github, Git, Slack
+```
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Muscardinus94)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muscardinus94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h4>Blog and Resume</h3>
-
-[Resume](https://drive.google.com/file/d/1nzQdXQD-8mrozM_5PjvYwDcsTLMi4nAM/view?usp=sharing)
-
-[Notion](https://complex-grape-7d5.notion.site/a0c42add288e496592af5da26af888b0?v=581b0e623cca459ca51bbff86dc495d3)
-
-[Tistory](https://muscardinus.tistory.com/)
-
-<h2 align="center">Techs Interested In And Team Collaboration</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Vuex-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Styled/components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=Adobe-Xd&logoColor=white"/></a>&nbsp
-</p>
 
