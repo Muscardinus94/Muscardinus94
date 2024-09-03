@@ -4,6 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muscardinus94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h4>Blog and Resume</h3>
+
+[Resume](https://drive.google.com/file/d/1nzQdXQD-8mrozM_5PjvYwDcsTLMi4nAM/view?usp=sharing)
+
+[Notion](https://complex-grape-7d5.notion.site/a0c42add288e496592af5da26af888b0?v=581b0e623cca459ca51bbff86dc495d3)
+
+[Tistory](https://muscardinus.tistory.com/)
+
 <h2 align="center">Techs Interested In And Team Collaboration</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
